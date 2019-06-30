@@ -1,0 +1,23 @@
+{
+  "name": "upperechelon",
+  "version": "1.0.0",
+  "description": "Website for the Lubbock Mall Store Upper Echelon. Created by Christopher Rieger and Leah Rieger.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cprieger/UpperEchelon.git"
+  },
+  "author": "Rieger <cprieger88@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/cprieger/UpperEchelon/issues"
+  },
+  "homepage": "https://github.com/cprieger/UpperEchelon#readme"
+}
