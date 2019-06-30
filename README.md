@@ -1,29 +1,29 @@
-# UpperEchelon
-Website for the Lubbock Mall Store Upper Echelon. Created by Christopher and Leah Rieger.
+# upperechelon
 
-## Build Setup
-
-``` bash
-# install dependencies
+## Project setup
+```
 npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# to start the backend on port 3000
-npm run start-server
 ```
 
-## Shout outs
- - Used portions of https://github.com/pietheinstrengholt/vue-express-boilerplate
-## Todo
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-- Add starting, lauching page
-- Dockerize the whole
-- Add codepipeline and ec2 deployment script
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
