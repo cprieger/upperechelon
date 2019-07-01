@@ -1,7 +1,10 @@
 <template>
-        <v-parallax src="https://cdn.vuetifyjs.com/images/parallax/material.jpg">
-            <h1>Upper Echelon</h1>
-        </v-parallax>
+<v-content>
+    <v-parallax height=1080 src="https://cdn.vuetifyjs.com/images/parallax/material.jpg">
+    <v-body>Upper Echelon</v-body>
+    </v-parallax>
+</v-content>
+    
 </template>
 
 <script>
@@ -9,5 +12,5 @@
 </script>
 
 <style>
-    @import '/vuetify/src/stylus/main';
+
 </style>
